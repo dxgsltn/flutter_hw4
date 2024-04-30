@@ -1,9 +1,10 @@
 # hwww
+![Screenshot (1)](https://github.com/dxgsltn/flutter_hw4/assets/163827345/e98f85d5-f183-4654-911c-01d7093cbc49)
 
 A new Flutter project.
 
 ## Getting Started
-![Uploading Screenshot (1).png…]()
+
 
 This project is a starting point for a Flutter application.
 
